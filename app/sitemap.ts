@@ -1,4 +1,4 @@
-export const baseUrl = 'https://rbrs-manager.vercel.app'
+export const baseUrl = 'https://rbrs.vercel.app'
 
 export default async function sitemap() {
   let routes = [''].map((route) => ({

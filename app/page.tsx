@@ -4,6 +4,9 @@ export default function Page() {
             <h1 className="page-title">
                 RBRS Manager
             </h1>
+            <p>
+                BLA BLA BLA
+            </p>
         </section>
     )
 }
